@@ -2,12 +2,10 @@
 
 > Este APP tem a função não só para a empresa divulgar seus produtos e promoções,
 > mas também para os usuários acharem parceiros para praticar corridas ao ar livre.
-
+> App de cupons de desconto. Mostre para o usuário que, ao saber a localização dele, é possível enviar cupons exclusivos e muito mais direcionados para o local em que ele está.
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 ![App Demo](/src/assets/app-base.png "App Demo")
 
