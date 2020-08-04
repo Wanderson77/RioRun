@@ -16,12 +16,17 @@
 
 ## React Native Features
 
++ Function Components
 + AirBnB styles
++ Styled Components
++ React Navigation
++ React Native Camera
++ Material UI / Bootstrap
++ Context API
 + Sliding Card
 + Map animation
 + Imagens com LazyLoad
 + Scroll infinito
-+ Facebook Login
 + Place Graph
 
 ## JS Features
