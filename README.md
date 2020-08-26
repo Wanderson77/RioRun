@@ -1,7 +1,7 @@
 # RioRun Club App
 
-> Este APP tem a função não só para a empresa divulgar seus produtos e promoções,
-> mas também para os usuários acharem parceiros para praticar corridas ao ar livre.
+> Este APP tem a função não só para a empresa divulgar seus produtos e promoções, mas também para os usuários acharem parceiros para praticar corridas ao ar livre.
+>
 > App de cupons de desconto. Mostre para o usuário que, ao saber a localização dele, é possível enviar cupons exclusivos e muito mais direcionados para o local em que ele está.
 
 ![App Demo](/src/assets/app-base.png "App Demo")
@@ -12,9 +12,8 @@
 ## Mobile Apps
 
 + Facebook Login
-+ ASO
-+ Mobile Marketing
 + Geolocalização
++ Compartilhe suas corridas
 
 ## React Native Features
 
@@ -59,4 +58,3 @@
 + In App Purchase
 
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
-
