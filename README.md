@@ -50,7 +50,7 @@
 + VSCode
 + Figma
 + Storybook
-+ Material UI
++ Paper UI
 + TypeScript
 
 ## Monetização
