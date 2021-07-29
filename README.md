@@ -1,4 +1,4 @@
-# RioRun Club App
+# RioRun Club App :octocat
 
 > Este APP tem a função não só para a empresa divulgar seus produtos e promoções, mas também para os usuários acharem parceiros para praticar corridas ao ar livre.
 >
@@ -35,26 +35,18 @@
 + TDD / Jest / Enzime
 + Hooks
 
-## Firebase Features## Firebase Features
+## Dev Experience (Feat)
 
-+ Authentication
-+ RealTime db
-+ Analytics
-+ Cloud Messaging
-+ Storage
-+ AppIndex
-+ AdMob
-
-## Dev Tools Experience
-
++ TypeScript | JavaScript
 + VSCode
-+ Figma
-+ Storybook
-+ Paper UI
-+ TypeScript
++ Firebase
++ CI | CD (App Center / GitHub Actions)
++ Tests | React Test Library
++ ServerLess (AWS)
++ Insomnia | Postman
++ GraphQL | API Rest
++ Docker | Kubernetes
 
 ## Monetização
 
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
