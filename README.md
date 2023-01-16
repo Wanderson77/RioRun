@@ -14,7 +14,7 @@
 + Facebook Login
 + Geolocalização
 + Compartilhe suas corridas
-  
+
 ## React Native Feat
 
 + Hooks
@@ -33,6 +33,17 @@
 ## JS Features
 
 + TDD / Jest / Enzime
+
+## Firebase
+
++ Authentication
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
++ AppIndex
++ Cloud Functions
++ AdMob
 
 ## DX
 
