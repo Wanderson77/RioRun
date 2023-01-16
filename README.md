@@ -14,11 +14,11 @@
 + Facebook Login
 + Geolocalização
 + Compartilhe suas corridas
+  
+## React Native Feat
 
-## React Native Features
-
-+ Function Components
-+ AirBnB styles
++ Hooks
++ Core Components
 + Styled Components
 + React Navigation
 + React Native Camera
@@ -33,7 +33,6 @@
 ## JS Features
 
 + TDD / Jest / Enzime
-+ Hooks
 
 ## DX
 
@@ -49,7 +48,7 @@
 + Insomnia | Postman
 + CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
-  
+
 ## Monetização
 
 + In App Purchase
