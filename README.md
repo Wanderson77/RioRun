@@ -19,6 +19,7 @@
 
 + Hooks
 + Core Components
++ FlexBox Layout
 + Styled Components
 + React Navigation
 + React Native Camera
