@@ -15,15 +15,15 @@
 + Geolocalização
 + Compartilhe suas corridas
 
-## React Native Feat
+## React Native / I Love
 
 + Hooks
 + Core Components
 + FlexBox Layout
 + Styled Components
 + React Navigation
++ UI Kit React Native Paper
 + React Native Camera
-+ Material UI / Bootstrap
 + Context API
 + Sliding Card
 + Map animation
