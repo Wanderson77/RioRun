@@ -24,12 +24,13 @@
 + React Navigation
 + UI Kit React Native Paper
 + React Native Camera
-+ Context API
 + Sliding Card
 + Map animation
 + Imagens com LazyLoad
 + Scroll infinito
 + Place Graph
++ Context API
++ Google Maps API
 
 ## Firebase
 
