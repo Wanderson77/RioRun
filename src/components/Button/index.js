@@ -1,13 +1,17 @@
 /** Simple comp */
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { View, Text } from 'react-native'
 import { styles } from './style'
 
 const Index = () => {
-  const [password, setPassword] = useState ("")
+  const [password, setPassword] = useState ("");
+  const [user, setUser] = useState ("");
+
+  useEffect(() => {},[]);
+
   return (
-    <View>
-      <Text>mobile marketing</Text>
+    <View style={styles.container}>
+      <Text>Mobile Marketing</Text>
     </View>
   )
 }
