@@ -5,5 +5,14 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-  }
+  },
+  text:{
+    fontFamily: 'Helvetica',
+    fontStyle: 'italic',
+    color: 'white',
+    fontWeight: 'bold',
+  },
+  likeButton:{
+
+  },
 })
