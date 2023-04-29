@@ -13,6 +13,9 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   likeButton:{
-
+    height: 40,
+    width: 40,
+    color: 'white',
+    padding: 0,
   },
 })
