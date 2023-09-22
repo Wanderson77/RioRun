@@ -14,19 +14,3 @@
 + Facebook Login
 + Geolocalização
 + Compartilhe suas corridas
-
-## React Native / I Love
-
-+ Hooks
-+ Core Components
-+ FlexBox Layout
-+ Styled Components
-+ React Navigation
-+ UI Kit React Native Paper
-+ React Native Camera
-+ Sliding Card
-+ Map animation
-+ Place Graph
-+ Context API
-+ Google Maps API
-+ ... e mais
